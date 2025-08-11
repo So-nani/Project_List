@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\BLOODCENTER\java\.metadata\.plugins\org.eclipse.jdt.core
+420387276.index
+2233320694.index
+2057303572.index
+906831511.index
+1865797976.index
+666542803.index

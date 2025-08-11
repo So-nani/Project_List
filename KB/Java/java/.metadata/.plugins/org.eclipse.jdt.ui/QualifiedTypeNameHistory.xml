@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.dg.bloodcenter.model.BloodHouse"/>
+    <fullyQualifiedTypeName name="sun.java2d.opengl.WGLSurfaceData.WGLVSyncOffScreenSurfaceData"/>
+    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
+    <fullyQualifiedTypeName name="com.dg.bloodcenter.util.Interview"/>
+    <fullyQualifiedTypeName name="com.dg.bloodcenter.db.DbManagerHN"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.dg.bloodcenter.ui.Menu"/>
+    <fullyQualifiedTypeName name="com.dg.bloodcenter.util.Util"/>
+    <fullyQualifiedTypeName name="com.dg.bloodcenter.db.DbManager"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.dg.bloodcenter.model.Donor"/>
+</qualifiedTypeNameHistroy>

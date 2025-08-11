@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.dg.bloodcenter.model.BloodHouse&apos; to &apos;BloodCenter&apos;&#x0D;&#x0A;- Original project: &apos;bloodcenter&apos;&#x0D;&#x0A;- Original element: &apos;com.dg.bloodcenter.model.BloodHouse&apos;&#x0D;&#x0A;- Renamed element: &apos;com.dg.bloodcenter.model.BloodCenter&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BloodHouse&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.dg.bloodcenter.model{BloodHouse.java[BloodHouse" matchStrategy="1" name="BloodCenter" qualified="false" references="true" similarDeclarations="false" stamp="1746155628656" textual="false" version="1.0"/>
+</session>
