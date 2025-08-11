@@ -5,4 +5,4 @@
 - Oracle DB
 - JAVA
 - Python
-- Final_Project (Equal_Local) 
+- Final_Project (Equal_Local)    
