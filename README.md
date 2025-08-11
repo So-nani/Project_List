@@ -1,2 +1,8 @@
-# Project_PetShop
-웹페이지 따라 만들어보기 프로젝트
+# Project_List
+## 프로젝트 목록
+### KB
+- JS_CSS (PetShop)
+- Oracle DB
+- JAVA
+- Python
+- Final_Project (Equal_Local) 
