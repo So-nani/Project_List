@@ -109,15 +109,15 @@ accept sup_cn prompt '카테고리를 입력해주세요'
 exec get_most_exp_pro('&sup_cn'); -- 캘린더, 노트 등 입력
 
 --트리거
-insert into review VALUES (13,'BK_b1','A0020','데이터 시각화','재밌습니다.',8, to_date('18-02-2025','dd-mm-yyyy'));
-insert into review VALUES (14,'BK_b1','A0020','데이터 시각화','재밌습니다.',7, to_date('18-02-2025','dd-mm-yyyy'));
-insert into review VALUES (15,'BK_b1','A0020','데이터 시각화','재밌습니다.',9, to_date('18-02-2025','dd-mm-yyyy'));
-insert into review VALUES (16,'BK_b1','A0020','데이터 시각화','재밌습니다.',10, to_date('18-02-2025','dd-mm-yyyy'));
-insert into review VALUES (17,'BK_b1','A0020','데이터 시각화','재밌습니다.',3, to_date('18-02-2025','dd-mm-yyyy'));
+insert into review VALUES (25,'BK_B1','A0020','데이터 시각화','아주 유익한 책입니다!',8, to_date('18-02-2025','dd-mm-yyyy'));
+insert into review VALUES (26,'BK_B1','A0020','데이터 시각화','재밌습니다.',7, to_date('18-02-2025','dd-mm-yyyy'));
+insert into review VALUES (27,'BK_B1','A0020','데이터 시각화','재밌습니다.',9, to_date('18-02-2025','dd-mm-yyyy'));
+insert into review VALUES (28,'BK_B1','A0020','데이터 시각화','재밌습니다.',10, to_date('18-02-2025','dd-mm-yyyy'));
+insert into review VALUES (29,'BK_B1','A0020','데이터 시각화','재밌습니다.',3, to_date('18-02-2025','dd-mm-yyyy'));
 -- 데이터 BK_b1에 대한 평점의 평균을 입력함
-update review r set r.re_grade = 9 where r.re_num = 13; 
+update review r set r.re_grade = 9 where r.re_num = 25; 
 -- 13번 게시글의 평점을 수정
-select avg(re_grade) from review where review.pro_id= 'BK_b1'; 
+select avg(re_grade) from review where review.pro_id= 'BK_B1'; 
 -- product 테이블의 평점과 비교
 
 --view
